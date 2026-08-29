@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "mona_extension",
+			"path": "../../../mona_extension"
+		},
+		{
+			"name": "mona_backend",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
